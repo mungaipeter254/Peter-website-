@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Peter's Website</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #00ff00;
+            font-family: 'Courier New', monospace;
+            text-align: center;
+            padding-top: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>System Status: Online</h1>
+    <p>Welcome to Peter's first live website.</p>
+</body>
+</html>
